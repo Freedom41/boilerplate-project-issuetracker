@@ -1,6 +1,13 @@
 **FreeCodeCamp**- Information Security and Quality Assurance
 ------
+1) Mongoose used.
+2) CRUD implemented
+3) All tests pass
+4) App avaliable on https://issutrackerfree41.glitch.me/
 
+
+
+-----------------
 Project Issue Tracker
 
 1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string in .env file
